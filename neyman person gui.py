@@ -1,3 +1,8 @@
+
+# auther: Nathan Diehl
+# class: ECE 963 - Estimation and Detection Theory
+
+
 from detection_theory import *
 
 

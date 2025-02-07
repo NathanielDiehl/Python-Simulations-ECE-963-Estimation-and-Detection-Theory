@@ -1,3 +1,8 @@
+
+# auther: Nathan Diehl
+# class: ECE 963 - Estimation and Detection Theory
+
+
 from numpy import pi, sin
 import numpy as np
 import matplotlib.pyplot as plt
